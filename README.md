@@ -37,15 +37,17 @@ A powerful and interactive Data Structures and Algorithms Visualization tool bui
      - Quick Sort
      - Merge Sort
      - Selection Sort
+     - Insertion Sort
    - **Searching**:
      - Linear Search
      - Binary Search
+
+   - **Graph Algorithms**:
      - Depth-First Search
      - Breadth-First Search
-   - **Graph Algorithms**:
      - Dijkstra's Algorithm
-     - A* Pathfinding
-     - Minimum Spanning Tree
+     - Prim’s Algorithm
+     - Kruskal’s Algorithm
 
 3. **Advanced Features**:
    - Algorithm Race Mode
