@@ -65,7 +65,7 @@ A powerful and interactive Data Structures and Algorithms Visualization tool bui
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dsa-visualizer.git
+   git clone https://github.com/SinghofFury/dsa-visualizer.git
    ```
 
 2. Navigate to project directory:
